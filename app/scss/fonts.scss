@@ -1,0 +1,13 @@
+//*********************************************
+// @IMPORT
+//*********************************************
+@import "_mixins.scss";
+
+//*********************************************
+// FONTS
+//*********************************************
+
+@include font-face("Philosopher-Bold", '../fonts/Philosopher/Philosopher-Bold', normal, bold, ttf); 
+@include font-face("Philosopher-Bold-Italic", '../fonts/Philosopher/Philosopher-BoldItalic', normal, bold, ttf); 
+@include font-face("Philosopher-Italic", '../fonts/Philosopher/Philosopher-Italic', normal, normal, ttf); 
+@include font-face("Philosopher-Regular", '../fonts/Philosopher/Philosopher-Regular', normal, normal, ttf); 
