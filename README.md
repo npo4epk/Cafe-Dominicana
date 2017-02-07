@@ -3,7 +3,8 @@
 
 <p>Страница по продаже Доминиканского кофе</p>
 <p>Посмотреть на странице:</p>
-<p><a href="http://nikita-karpinskiy.esy.es/Cafe-Dominicana/" target="_blank">cafe-dominicana.com</a></p>
+<p><a href="http://cafedominicana.com.ua/" target="_blank">cafedominicana.ua</a></p>
+<p><a href="http://nikita-karpinskiy.esy.es/Cafe-Dominicana/" target="_blank">cafedominicana.com</a></p>
 
 <em>Особенности проекта:</em>
 <ol>
